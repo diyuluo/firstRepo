@@ -1,1 +1,2 @@
-git is a free software
+I am learning git
+Great tutorial online
