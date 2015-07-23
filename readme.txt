@@ -1,2 +1,6 @@
 deleting a friend is quick
-confused but disappointed
+<<<<<<< HEAD
+confused but not disappointed
+=======
+confused but not disappointed
+>>>>>>> feature1
