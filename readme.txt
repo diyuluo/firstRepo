@@ -1,2 +1,2 @@
 deleting a friend is quick
-confused
+confused but not disappointed
