@@ -1,6 +1,1 @@
-deleting a friend is quick
-<<<<<<< HEAD
-confused but not disappointed
-=======
-confused but not disappointed
->>>>>>> feature1
+deleting a friend is easy for someone
